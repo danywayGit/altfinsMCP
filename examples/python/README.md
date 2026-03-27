@@ -53,5 +53,13 @@ Run:
 
 ## Included direct tool calls
 
-1. `technicalAnalysis_getTechnicalAnalysisData` with symbol `BTC`
+1. `technicalAnalysis_getTechnicalAnalysisData` for all symbols by default
 2. `ohlc_getLatestData` with symbols `BTC,ETH,SOL`
+
+Optional filter:
+
+```powershell
+$env:ALTFINS_TA_SYMBOLS="BTC,ETH,SOL"
+```
+
+If `ALTFINS_TA_SYMBOLS` is set, technical analysis is fetched only for those symbols.

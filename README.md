@@ -27,9 +27,15 @@ This script:
 1. Connects directly to `https://mcp.altfins.com/mcp` with `X-Api-Key`.
 2. Calls `list_tools` and exports current tools to `feature-runs/00-live-tool-catalog.md`.
 3. Runs direct calls including:
-	- `technicalAnalysis_getTechnicalAnalysisData` (curated trade setups / analyst views)
+	- `technicalAnalysis_getTechnicalAnalysisData` for all symbols by default (curated trade setups / analyst views)
 	- `ohlc_getLatestData`
 4. Saves raw direct-call output to `feature-runs/00-live-direct-tool-call-output.json`.
+
+Optional symbol filter for technical analysis:
+
+```powershell
+$env:ALTFINS_TA_SYMBOLS="BTC,ETH,SOL"
+```
 
 Install Python dependencies for this script:
 

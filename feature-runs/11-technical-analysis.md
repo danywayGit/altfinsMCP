@@ -6,7 +6,7 @@ Get technical analysis data for ADA on the 4h timeframe.
 
 ## Tool invocation
 
-`mcp_altfins-mcp-s_technicalAnalysis_getTechnicalAnalysisData(symbol="ADA", size=10)`
+`technicalAnalysis_getTechnicalAnalysisData(symbol="ADA", size=10)`
 
 ## Output received
 
@@ -27,4 +27,4 @@ Get technical analysis data for ADA on the 4h timeframe.
 ]
 ```
 
-Note: description field in the raw output includes a long HTML payload. This file keeps it concise.
+Note: output includes a long HTML `description` field; this file stores a concise excerpt.

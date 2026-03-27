@@ -1,8 +1,338 @@
 {
   "technicalAnalysis_getTechnicalAnalysisData": [
-    "[{\"symbol\":\"BTC\",\"friendlyName\":\"Bitcoin\",\"updatedDate\":1774509910.000000000,\"nearTermOutlook\":\"Neutral\",\"patternType\":\"Channel Down\",\"patternStage\":\"Emerging\",\"description\":\"<p><strong> Trade setup:</strong> Price is in a Downtrend, trading in a Channel Down.  There are signs of trend reversal. Price held up surprisingly well during this geo-political turbulence. It's gotten rejected at $75K resistance again and pulled back below $70K key level. It's still within a small rising channel.  It needs to break back above $70K to signal it's continued trend reversal.  (set a price <a href=\\\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\\\" target=\\\"_blank\\\">alert</a>) <br></p> <p><strong>Pattern: </strong> Price is trading in a <a href=\\\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\\\"https://altfins.com/education/trading-course\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $60,000.00.</p>&nbsp;Nearest Resistance Zone is $70,000.00, then $75,000.00.</div>\",\"imgChartUrl\":\"https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/659e575c-5221-42a6-b4c9-61a34ca00084\",\"imgChartUrlDark\":\"https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/7b45e4d0-b640-4343-9def-3b8a841e16b0\",\"logoUrl\":\"https://s2.coinmarketcap.com/static/img/coins/64x64/1.png\"}]"
+    [
+      {
+        "symbol": "ZEC",
+        "friendlyName": "Zcash",
+        "updatedDate": 1774525116.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:</strong>   Price is in a Downtrend, trading in a Channel Down pattern.  We wait for a break out of the Channel Down pattern, above $300 resistance and 200 SMA to signal bullish trend reversal.  That's a stiff resistance zone.  In the meantime, priceis approaching $200 level where it's found support a few times in the recent weeks. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $200.00, then $125.00.&nbsp;Nearest Resistance Zone is $300.00, then $430.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/206d1e17-7a69-4bf6-a1f4-86e66784fae9",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/dd6ab78f-1dc5-49eb-a1ae-ed5bb2ec3f57",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png"
+      },
+      {
+        "symbol": "NEAR",
+        "friendlyName": "NEAR Protocol",
+        "updatedDate": 1774525059.0,
+        "nearTermOutlook": "Bullish",
+        "patternType": "Channel Down",
+        "patternStage": "Breakout",
+        "description": "<p><strong>Trade setup:</strong> Price is in a Downtrend, however, it's broken out of the Channel Down pattern, which could signal at least a temporary bullish trend reversal.  We wait for confirmation: break above $1.40 resistance.  If it does, price could revisit $1.72 next.  Stop loss at $1.05.  (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.85.</p>&nbsp;Nearest Resistance Zone is $1.40, then $1.72.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/b6e971af-a1b8-40ea-b0bf-7dc97e8f44ad",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/f98e385b-c62b-4ea7-a11b-b3e9c843bdac",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+      },
+      {
+        "symbol": "LTC",
+        "friendlyName": "Litecoin",
+        "updatedDate": 1774524954.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Breakout",
+        "description": "<p><strong>Trade setup: </strong> Price is in a Downtrend.  We watch for a breakout of Channel Down pattern, which could signal at least a temporary bullish trend reversal.  However, we would wait for confirmation: break above $60 resistance. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade Pullback in Uptrend strategy in Lesson 3 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $50.00, then $45.00.&nbsp;Nearest Resistance Zone is $55.00, then $60.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/bc969a67-4d5d-4d56-bc26-3c59287ebe13",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/efc29415-d8e6-4e8c-a2c2-d802f3448fb5",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+      },
+      {
+        "symbol": "LINK",
+        "friendlyName": "ChainLink",
+        "updatedDate": 1774524858.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>After consolidating in a Sideways Channel ($8 - $9), price broke out and reached $10.00 resistance, which is also Channel trendline.  Overall, it remains in a Downtrend until it breaks out of the larger pattern: Channel Down. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $8.00, then $7.00.&nbsp;Nearest Resistance Zone is $9.00, then $10.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/96fff2a6-18a9-4fc9-829e-4df212a99ebe",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/44d351b1-07f3-4ff4-b230-21eaf6f73055",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+      },
+      {
+        "symbol": "LDO",
+        "friendlyName": "Lido DAO",
+        "updatedDate": 1774524795.0,
+        "nearTermOutlook": "Bearish",
+        "patternType": "Approaching Support",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:</strong> Price remains in a Downtrend.  It's broken $0.30 support and could revisit $0.25 next.  (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) (see our <a href=\"https://altfins.com/on-chain-data \" target=\"_blank\">on-chain analytics </a> and <a href=\"https://altfins.com/research/exclusive/14-Top-Large-Cap-Crypto-Staking-Provider\" target=\"_blank\">research report) </a>.</p> <p><strong>Pattern: </strong> Price is Approaching Support, which is a level where it could pause or reverse its recent decline, at least temporarily. Support is often a level where price has bounced up in the past, or potentially prior Resistance level that was broken. (concept known as <a href=\"https://altfins.com/knowledge-base/polarity-principle/\" target=\"_blank\" rel=\"noopener\">polarity</a>). Once price breaks below support, it can move lower to the next support level. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade key levels in Lesson 7.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.25.</p>&nbsp;Nearest Resistance Zone is $0.36, then $0.40.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/3e2df6ca-cbe0-4f30-940b-e559f278f855",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/e195d5f0-dce1-43e5-896b-70af4d9ca8f4",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png"
+      },
+      {
+        "symbol": "KAS",
+        "friendlyName": "Kaspa",
+        "updatedDate": 1774524754.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Falling Wedge",
+        "patternStage": "Breakout",
+        "description": "<p><strong>Trade setup: </strong> Price has had a bullish breakout from Falling Wedge pattern but its first attempt to break $0.40 resistance failed.  Now we wait for price to either 1) break above $0.04 again to signal continuation of reversal, with +25% upside potential to $0.05 next,  or 2) break below $0.035 key level to signal resumption of Downtrend with downside potential to $0.03 next. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Patterns: </strong> <a href=\"https://altfins.com/knowledge-base/how-to-trade-falling-wedge-pattern-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Falling Wedge</a> usually results in a bullish breakout. When price breaks the upper trend line the price is expected to trend higher. Emerging patterns (before a breakout occurs) can be traded by swing traders between the convergence lines; however, most traders should wait for a completed pattern with a breakout and then place a BUY order. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Neutral, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.03, then $0.025.&nbsp;Nearest Resistance Zone is $0.04, then $0.05.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/e26f10bb-534e-4abb-9769-42eb0f2b4e55",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/6ab0046f-3675-4f1d-b8ed-8a585c7ed0a5",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png"
+      },
+      {
+        "symbol": "INJ",
+        "friendlyName": "Injective",
+        "updatedDate": 1774524728.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup:  </strong>Price is in a Downtrend until it breaks out of the Channel down pattern, above $3.50 resistance, and makes a Higher Low and Higher High, which would signal a bullish trend reversal. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $2.50.</p>&nbsp;Nearest Resistance Zone is $3.50, then $4.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/ee141db4-4d12-4e35-b9ea-3f82b86f01e0",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/276ac558-acb6-4fbf-8d57-f868fb7c3aec",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+      },
+      {
+        "symbol": "ICP",
+        "friendlyName": "Internet Computer",
+        "updatedDate": 1774524427.0,
+        "nearTermOutlook": "Bearish",
+        "patternType": "Approaching Resistance",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>Price broke back below $2.50 key level and could resume its Downtrend back to $2.00 support.    (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/knowledge-base/the-dragonfly-doji-candlestick-pattern/\" target=\"_blank\">Learn </a>more about Perfect Dragonfly candlestick pattern.</p> <p><strong>Pattern: </strong> Price is Approaching Resistance, which is a level where it could pause or reverse its recent advance, at least temporarily. Resistance is often a level where price got rejected in the past, or potentially prior Support level that was broken. (concept known as <a href=\"https://altfins.com/knowledge-base/polarity-principle/\" target=\"_blank\" rel=\"noopener\">polarity</a>). Once price breaks above resistance, it can advance higher to the next resistance level. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade key levels in Lesson 7.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish (<a href=\"https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD </a>Line crossed below MACD Signal Line) 28 day(s) ago. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $2.00.</p>&nbsp;Nearest Resistance Zone is $2.50, then $2.80.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/a793c171-5c17-40e2-8a1b-882b83df4094",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/d90749ec-57c4-4393-8919-4ed2735e7f14",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
+      },
+      {
+        "symbol": "HBAR",
+        "friendlyName": "Hedera",
+        "updatedDate": 1774524390.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Approaching Resistance",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:</strong> Price had a bullish breakout from Channel Down pattern but we wait for confirmation: break above $0.105 resistance.  If so, that could signal at least a temporary bullish trend reversal with +20% upside potential to $0.13 resistance (PT).  Stop Loss at $0.092. This is a riskier trade setup because it\u2019s a trend reversal not a trend continuation setup.  It\u2019s against the overall downtrend.  (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is Approaching Resistance, which is a level where it could pause or reverse its recent advance, at least temporarily. Resistance is often a level where price got rejected in the past, or potentially prior Support level that was broken. (concept known as <a href=\"https://altfins.com/knowledge-base/polarity-principle/\" target=\"_blank\" rel=\"noopener\">polarity</a>). Once price breaks above resistance, it can advance higher to the next resistance level. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade key levels in Lesson 7.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.08, then $0.07.&nbsp;Nearest Resistance Zone is $0.105, then $0.13.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/b26a2dcb-5814-4d18-beb7-c138acc373b3",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/4c95dc15-9abc-4b9e-83b1-efb8e05ff1f4",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png"
+      },
+      {
+        "symbol": "FLR",
+        "friendlyName": "Flare",
+        "updatedDate": 1774524336.0,
+        "nearTermOutlook": "Bearish",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:  </strong>Price is in a Downtrend, making Lower Lows, trading in a Channel Down.  It's broken below $0.009 support, signaling resumption of Downtrend. <br></p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish but inflecting. MACD Line is still below MACD Signal Line but momentum may have bottomed since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are rising, which suggests that momentum could be nearing an upswing. Price is Oversold currently, based on RSI-14 levels (RSI &lt; 30).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Resistance Zone is $0.01, then $0.011.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/c1af932c-b981-4637-95e7-7b7556cf91ec",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/a7d538dd-b07a-41d7-806a-6a8776230034",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png"
+      },
+      {
+        "symbol": "FIL",
+        "friendlyName": "Filecoin",
+        "updatedDate": 1774524314.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Sideways Channel",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup: </strong>Price is in a Downtrend, although there are some early signs of improvement as price has been consolidating in a sideways range ($0.85 - $1.00).  Swing traders could trade that range (Buy near $0.85 support, Sell near $1.00. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-sideways-channel-pattern/\" target=\"_blank\" rel=\"noopener\">Sideways Channel </a>, which is a neutral pattern (indication of market indecision). Trend Traders ought to wait for a breakout in either direction, although typically it breaks in the direction of the existing trend. Swing Traders can trade the range - Buy near Support and Sell near Resistance. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade Sideways Channel in Lesson 6.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.85, then $0.78.&nbsp;Nearest Resistance Zone is $1.00, then $1.10.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/5ddba918-b557-4075-9b4e-2e5b023e9d04",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/5a0ea298-3945-41aa-81ff-dbeb6d1a0159",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+      },
+      {
+        "symbol": "ETH",
+        "friendlyName": "Ethereum",
+        "updatedDate": 1774524251.0,
+        "nearTermOutlook": "Bullish",
+        "patternType": "Sideways Channel",
+        "patternStage": "Breakout",
+        "description": "<p><strong>Trade setup: </strong> After consolidating in a sideways channel ($1,800 - $2,100), price had broken out (above $2,100) and nearly reached our target of $2,400 resistance.   It's now pulled back and bounced up from $2,100, which confirms that as a support level and could be a swing trade entry opportunity, with upside potential back to $2,400 resistance again.  (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) This is a riskier trade setup because it\u2019s a trend reversal not a trend continuation setup.  It\u2019s against the overall downtrend. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-sideways-channel-pattern/\" target=\"_blank\" rel=\"noopener\">Sideways Channel </a>, which is a neutral pattern (indication of market indecision). Trend Traders ought to wait for a breakout in either direction, although typically it breaks in the direction of the existing trend. Swing Traders can trade the range - Buy near Support and Sell near Resistance. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade Sideways Channel in Lesson 6.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $1,800.00.</p>&nbsp;Nearest Resistance Zone is $2,100.00, then $2,400.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/e6b98673-9a98-4505-83a9-0b2683ea7bc1",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/51b73969-b5a6-42c2-aeec-1a8eb9ac912a",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      },
+      {
+        "symbol": "ENA",
+        "friendlyName": "Ethena",
+        "updatedDate": 1774524180.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup: </strong>Price is in a Downtrend until it breaks out of the Channel Down pattern, above $0.13 resistance. Ethena is a decentralized stablecoin (USDe) issuer. Read our research report <a href=\"https://altfins.com/research/exclusive/512-Coin-Pick-Update--The-Synthetic-Dollar-Protocol-built-on-Ethereum?type=coin-picks\" target=\"_blank\">here</a> and DAT research <a href=\"https://altfins.com/research/exclusive/566-DIGITAL-ASSET-TREASURIES--DATs-?type=industry\" target=\"_blank\">here</a>. USDe has a market capitalization of over $12.5 billion, up significantly from $5.7 billion at the start of summer. Since August 2024, this stablecoin\u2019s market capitalization has grown more than 200%, compared with 87% for Circle\u2019s USDC and 39.5% for Tether\u2019s USDT.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish but inflecting. MACD Line is still below MACD Signal Line but momentum may have bottomed since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are rising, which suggests that momentum could be nearing an upswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.09.</p>&nbsp;Nearest Resistance Zone is $0.13, then $0.16.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/6768814b-4117-4ae9-baf5-2c257b423b15",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/f410adb2-27eb-4b70-9df1-6c24d076849c",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png"
+      },
+      {
+        "symbol": "DOT",
+        "friendlyName": "Polkadot",
+        "updatedDate": 1774523930.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:</strong> Price remains in a Downtrend until it breaks out of Channel Down pattern, above $1.70 resistance. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>)  There was a halving event that took place on March 16th, which will reduce new supply growth by 50%.  That fueled some excitement among traders recently. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $1.25, then $1.10.&nbsp;Nearest Resistance Zone is $1.70, then $2.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/44d5692c-2d0d-43f1-91b4-434f701fd36c",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/6a58b083-ea0a-4bb1-89d4-4e6554f0f83d",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+      },
+      {
+        "symbol": "DOGE",
+        "friendlyName": "Dogecoin",
+        "updatedDate": 1774523831.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>Price is in a Downtrend, consolidating in a range ($0.09 - $0.11). We wait for a breakout. Bearish breakout below $0.09 support would signal resumption of Downtrend with downside risk to $0.08.  If it breaks out of the Channel Down pattern, above $0.11 resistance, that would signal a bullish trend reversal. (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrenci Pries/\" target=\"_blank\">alert</a>). <br></p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.09, then $0.08.&nbsp;Nearest Resistance Zone is $0.11, then $0.125.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/e116028d-6733-4897-b335-02233f918393",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/324b5ce0-ea56-46ef-8004-74bd75d54666",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+      },
+      {
+        "symbol": "CRO",
+        "friendlyName": "Cronos",
+        "updatedDate": 1774523779.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Approaching Support",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup: </strong>Initial breakout failed. Price is again pressing against the $0.08 resistance.  It it breaks above that, it could revisit $0.09 next.  It remains in a Downtrend until it makes a Higher HIgh and Higher Low. (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is Approaching Support, which is a level where it could pause or reverse its recent decline, at least temporarily. Support is often a level where price has bounced up in the past, or potentially prior Resistance level that was broken. (concept known as <a href=\"https://altfins.com/knowledge-base/polarity-principle/\" target=\"_blank\" rel=\"noopener\">polarity</a>). Once price breaks below support, it can move lower to the next support level. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade key levels in Lesson 7.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish (<a href=\"https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD </a>Line crossed below MACD Signal Line) 28 day(s) ago. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.07.</p>&nbsp;Nearest Resistance Zone is $0.08, then $0.09.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/962ff3db-6ed9-42be-8b5b-dea5addd18f2",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/4d592086-23f5-43ca-819c-ac49e8c4b74b",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+      },
+      {
+        "symbol": "BONK",
+        "friendlyName": "Bonk",
+        "updatedDate": 1774523748.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup:</strong> Price is in a Downtrend, trading in Channel Down pattern.  It needs to break out of the Channel to signal bullish trend reversal.  (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.000005.</p>&nbsp;Nearest Resistance Zone is $0.000009, then $0.000011.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/ca6e21b3-dddf-43f9-9db8-c4f05d02c983",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/fdba422c-9b20-4caa-9f92-7f81379f7e7a",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
+      },
+      {
+        "symbol": "BNB",
+        "friendlyName": "BNB",
+        "updatedDate": 1774522986.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong> Trade setup:</strong>  Price is trading in a Channel Down pattern.   (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $590.00, then $540.00.&nbsp;Nearest Resistance Zone is $640.00, then $675.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/ef8ffa8b-9d00-4fea-bb8d-732d1d4761ce",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/01a98c1c-c35d-46cc-9d5a-570dcc31aa70",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+        "symbol": "BGB",
+        "friendlyName": "Bitget Token",
+        "updatedDate": 1774522953.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Oversold at Support",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:  </strong>Price is in a Downtrend, although it's reached $2.00 - $2.10 support zone and is oversold (RSI &lt; 30).  Hence, it could bouncd up near-term. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>)</p> <p><strong>Pattern: </strong> Price is Oversold at Support. This trading strategy finds assets that are oversold (RSI < 30) and are near a support area, which means there's a high probability that price will bounce up near-term. Oversold conditions are typically reached when RSI hits 30 or less. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> this trading strategy in Lesson 5.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is Oversold currently, based on RSI-14 levels (RSI &lt; 30).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Resistance Zone is $2.50, then $3.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/4fb37159-f505-4578-ba64-fc02ee04735d",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/f31c80b5-e04b-49de-ad6c-800fbc26242f",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png"
+      },
+      {
+        "symbol": "BCH",
+        "friendlyName": "Bitcoin Cash",
+        "updatedDate": 1774522918.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Approaching Resistance",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>Price bounced up from a robust support zone of $425-$450 but remains in a Downtrend until it breaks through the trend line (see chart). (set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>). <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a><span style=\"color: rgba(24, 39, 57, 0.94);\"> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</span></p> <p><strong>Pattern: </strong> Price is Approaching Resistance, which is a level where it could pause or reverse its recent advance, at least temporarily. Resistance is often a level where price got rejected in the past, or potentially prior Support level that was broken. (concept known as <a href=\"https://altfins.com/knowledge-base/polarity-principle/\" target=\"_blank\" rel=\"noopener\">polarity</a>). Once price breaks above resistance, it can advance higher to the next resistance level. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade key levels in Lesson 7.</p><div><p><b>Trend: </b> Short-term trend is Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $450.00, then $425.00.&nbsp;Nearest Resistance Zone is $550.00, then $625.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/cd342411-0648-45f5-82da-46e60f772cff",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/dd21b7e1-c94e-45e8-a664-4985ae42553b",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+      },
+      {
+        "symbol": "ATOM",
+        "friendlyName": "Cosmos",
+        "updatedDate": 1774522795.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>Price is in a Downtrend, trading in a Channel Down pattern.  (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish (<a href=\"https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD </a>Line crossed below MACD Signal Line) 28 day(s) ago. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $1.50.</p>&nbsp;Nearest Resistance Zone is $2.50, then $3.00.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/e6eb1474-75db-499b-b789-25011a1b7ddd",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/18bc073f-3b8b-4ef0-b50e-46f657232410",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+      },
+      {
+        "symbol": "TIA",
+        "friendlyName": "Celestia",
+        "updatedDate": 1774522708.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Sideways Channel",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup:  </strong> Price is consolidating in a Sideways Channel ($0.30 - $0.38).  We wait for a breakout, either bullish above $0.38 to signal a trend reversal, or bearish below $0.30 support, which would signal resumption of Downtrend.  Swing traders can trade the Sideways Channel (Buy near $0.30 support, Sell near $0.38 resistance). (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) TIA was also featured in our Coin Picks research.  Read <a href=\"https://altfins.com/research/exclusive?type=coin-picks\" target=\"_blank\">here</a>. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-sideways-channel-pattern/\" target=\"_blank\" rel=\"noopener\">Sideways Channel </a>, which is a neutral pattern (indication of market indecision). Trend Traders ought to wait for a breakout in either direction, although typically it breaks in the direction of the existing trend. Swing Traders can trade the range - Buy near Support and Sell near Resistance. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade Sideways Channel in Lesson 6.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Down, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bearish (<a href=\"https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD </a>Line crossed below MACD Signal Line) 28 day(s) ago. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.30, then $0.27.&nbsp;Nearest Resistance Zone is $0.35, then $0.45.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/43d754ba-4407-4ca2-96c0-47866bd13d54",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/47f28202-02a7-4579-9d4f-3d070b878d93",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png"
+      },
+      {
+        "symbol": "APT",
+        "friendlyName": "Aptos",
+        "updatedDate": 1774522683.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Channel Down",
+        "patternStage": "Breakout",
+        "description": "<p><strong>Trade setup: </strong>Price is in a Downtrend, however, it's broken out of the Channel Down pattern, which could signal a bullish trend reversal.  We wait for confirmation: break above $1.15 resistance, with upside potential to $1.40 thereafter.  (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Up, Medium-term trend is Neutral, Long-term trend is Strong Down.</p><p><strong>Momentum</strong> is Bullish but inflecting. MACD Line is still above MACD Signal Line but momentum may have peaked since <a href=\" https://altfins.com/knowledge-base/macd-line-and-macd-signal-line/\" target=\"_blank\" rel=\"noopener\"> MACD Histogram </a> bars are declining, which suggests that momentum could be nearing a downswing. Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.90, then $0.80.&nbsp;Nearest Resistance Zone is $1.15, then $1.40.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/c693b7c4-55bf-45e9-8ab0-792921225d72",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/b9985d56-3b52-4a07-9e29-574741773b41",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png"
+      },
+      {
+        "symbol": "ALGO",
+        "friendlyName": "Algorand",
+        "updatedDate": 1774522634.0,
+        "nearTermOutlook": "Bearish",
+        "patternType": "Channel Down",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong>Price is in a downtrend, trading in a Channel Down pattern, making Lower Lows and Lower Highs. Price is again approaching $0.10 channel resistance and $0.11 horizontal resistance, where it's likely to get rejected. (Set a price <a href=\"https://altfins.com/knowledge-base/create-alert-for-cryptocurrencies/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-channel-down-crypto-chart-pattern/\" target=\"_blank\" rel=\"noopener\"> Channel Down</a> pattern. With emerging patterns, traders who believe the price is likely to remain within its channel can initiate trades when the price fluctuates within its channel trendlines. With complete patterns (i.e. a breakout) - initiate a trade when the price breaks through the channel's trendlines, either on the upper or lower side. When this happens, the price can move rapidly in the direction of that breakout. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade chart patterns in Lesson 8.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.08.</p>&nbsp;Nearest Resistance Zone is $0.11, then $0.13.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/6a97e0ab-3432-46eb-9046-a70c4841ebf6",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/d0a88fd0-5820-47c6-a336-46436800e65f",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+      },
+      {
+        "symbol": "ADA",
+        "friendlyName": "Cardano",
+        "updatedDate": 1774522594.0,
+        "nearTermOutlook": "Neutral",
+        "patternType": "Sideways Channel",
+        "patternStage": "Emerging",
+        "description": "<p><strong>Trade setup: </strong> Price is in a Downtrend but there are improvements as it's consolidating in a range ($0.25 - $0.30). It also appears to have broken out of the Channel Down pattern, which could signal a bullish trend reversal.  We wait for confirmation: break above $0.30 resistance. . (set price <a href=\"https://altfins.com/knowledge-base/create-an-alert-2/\" target=\"_blank\">alert</a>) <a href=\"https://altfins.com/knowledge-base/mastering-candlestick-patterns-for-successful-crypto-trading/\" target=\"_blank\">Learn </a>to trade candlestick patterns. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\">Learn</a> to trade breakouts in Lesson 7 and Risk Management in Lesson 9.</p> <p><strong>Pattern: </strong> Price is trading in a <a href=\"https://altfins.com/knowledge-base/how-to-trade-sideways-channel-pattern/\" target=\"_blank\" rel=\"noopener\">Sideways Channel </a>, which is a neutral pattern (indication of market indecision). Trend Traders ought to wait for a breakout in either direction, although typically it breaks in the direction of the existing trend. Swing Traders can trade the range - Buy near Support and Sell near Resistance. <a href=\"https://altfins.com/education/trading-course\" target=\"_blank\" rel=\"noopener\">Learn</a> to trade Sideways Channel in Lesson 6.</p><div><p><b>Trend: </b> Short-term trend is Strong Down, Medium-term trend is Strong Down, Long-term trend is Strong Down.</p><p><strong>Momentum: </strong> Price is neither overbought nor oversold currently, based on RSI-14 levels (RSI &gt; 30 and RSI &lt; 70).</p><p><strong>Support and Resistance:</strong>&nbsp;Nearest Support Zone is $0.25, then $0.22.&nbsp;Nearest Resistance Zone is $0.30, then $0.33.</div>",
+        "imgChartUrl": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/2c9ac7db-a281-4c30-b7b8-bda2e0fe0f0f",
+        "imgChartUrlDark": "https://cdn2.altfins.com/cdn-cgi/image/format=auto/img/curated_chart/52818827-093c-4ba7-8f40-cd0ea3628979",
+        "logoUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+      }
+    ]
   ],
+  "technicalAnalysis_request": {},
   "ohlc_getLatestData": [
-    "[{\"symbol\":\"BTC\",\"time\":1774585739.999000000,\"open\":\"68812.10669867536\",\"high\":\"69141.97205207995\",\"low\":\"68261.92933408772\",\"close\":\"68499.32176417626\",\"volume\":\"89695.6639218658\"},{\"symbol\":\"ETH\",\"time\":1774585739.999000000,\"open\":\"2059.9559881865885\",\"high\":\"2076.095766549532\",\"low\":\"2042.1031232820987\",\"close\":\"2050.4688499253143\",\"volume\":\"1682399.0890895058\"},{\"symbol\":\"SOL\",\"time\":1774585739.999000000,\"open\":\"86.51601857807988\",\"high\":\"86.98870349423396\",\"low\":\"85.70514541274257\",\"close\":\"86.02349618966926\",\"volume\":\"12488323.715193585\"}]"
+    [
+      {
+        "symbol": "BTC",
+        "time": 1774595159.999,
+        "open": "68812.10669867536",
+        "high": "69141.97205207995",
+        "low": "68261.92933408772",
+        "close": "68634.20385289147",
+        "volume": "86260.21464581754"
+      },
+      {
+        "symbol": "ETH",
+        "time": 1774595159.999,
+        "open": "2059.9559881865885",
+        "high": "2076.095766549532",
+        "low": "2042.1031232820987",
+        "close": "2061.101153488117",
+        "volume": "1601287.0486980702"
+      },
+      {
+        "symbol": "SOL",
+        "time": 1774595159.999,
+        "open": "86.51601857807988",
+        "high": "86.98870349423396",
+        "low": "85.70514541274257",
+        "close": "85.9492217749227",
+        "volume": "10681227.09256128"
+      }
+    ]
   ]
 }

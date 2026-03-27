@@ -20,6 +20,16 @@ def _extract_text_blocks(result) -> list[str]:
     return blocks
 
 
+def _parse_blocks(blocks: list[str]) -> list[object]:
+    parsed: list[object] = []
+    for block in blocks:
+        try:
+            parsed.append(json.loads(block))
+        except (json.JSONDecodeError, TypeError):
+            parsed.append(block)
+    return parsed
+
+
 def _write_live_tool_catalog(tools, output_path: Path) -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     lines = [
@@ -45,6 +55,9 @@ async def main() -> None:
     if not api_key:
         raise RuntimeError("Set ALTFINS_API_KEY environment variable before running.")
 
+    # Optional override (comma-separated symbols, e.g. BTC,ETH).
+    ta_symbols = os.getenv("ALTFINS_TA_SYMBOLS", "").strip()
+
     headers = {"X-Api-Key": api_key}
 
     async with streamablehttp_client(ALTFINS_MCP_URL, headers=headers) as (
@@ -62,11 +75,15 @@ async def main() -> None:
                 short_description = description[:90] + ("..." if len(description) > 90 else "")
                 print(f"  - {tool.name}: {short_description}")
 
+            ta_arguments = {"symbol": ta_symbols} if ta_symbols else {}
             technical_result = await session.call_tool(
                 "technicalAnalysis_getTechnicalAnalysisData",
-                arguments={"symbol": "BTC"},
+                arguments=ta_arguments,
             )
-            print("\nBTC curated technical analysis:")
+            if ta_symbols:
+                print(f"\nCurated technical analysis for symbols: {ta_symbols}")
+            else:
+                print("\nCurated technical analysis for all available symbols:")
             for block in _extract_text_blocks(technical_result):
                 print(block)
 
@@ -79,8 +96,11 @@ async def main() -> None:
                 print(block)
 
             raw_result = {
-                "technicalAnalysis_getTechnicalAnalysisData": _extract_text_blocks(technical_result),
-                "ohlc_getLatestData": _extract_text_blocks(ohlc_result),
+                "technicalAnalysis_getTechnicalAnalysisData": _parse_blocks(
+                    _extract_text_blocks(technical_result)
+                ),
+                "technicalAnalysis_request": ta_arguments,
+                "ohlc_getLatestData": _parse_blocks(_extract_text_blocks(ohlc_result)),
             }
             output_json = Path("feature-runs") / "00-live-direct-tool-call-output.json"
             output_json.parent.mkdir(parents=True, exist_ok=True)

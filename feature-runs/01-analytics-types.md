@@ -2,11 +2,11 @@
 
 ## Prompt used
 
-Show all analytics types available from altFINS so I can pick one for historical analysis.
+List all available analytics types from altFINS so I can choose one for historical analysis.
 
 ## Tool invocation
 
-`mcp_altfins-mcp-s_analytics_getAnalyticsTypes()`
+`analytics_getAnalyticsTypes()`
 
 ## Output received
 
@@ -51,8 +51,20 @@ Show all analytics types available from altFINS so I can pick one for historical
   {
     "id": "PRICE_CHANGE_3M",
     "friendlyName": "EAnalyticsTypeData_PRICE_CHANGE_3M.TXT"
+  },
+  {
+    "id": "PRICE_CHANGE_6M",
+    "friendlyName": "EAnalyticsTypeData_PRICE_CHANGE_6M.TXT"
+  },
+  {
+    "id": "PRICE_CHANGE_1Y",
+    "friendlyName": "EAnalyticsTypeData_PRICE_CHANGE_1Y.TXT"
+  },
+  {
+    "id": "PRICE_CHANGE_YTD",
+    "friendlyName": "EAnalyticsTypeData_PRICE_CHANGE_YTD.TXT"
   }
 ]
 ```
 
-Note: output is a large list; this file stores an excerpt of the first entries.
+Note: output is a large list; this file stores a concise excerpt from the live response.
