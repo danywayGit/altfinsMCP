@@ -1,0 +1,19 @@
+{
+        "inputs": [
+                {
+                        "type": "promptString",
+                        "id": "altfins-api-key",
+                        "description": "altFINS API key",
+                        "password": true
+                }
+        ],
+        "servers": {
+                "AltFins-mcp-server": {
+                        "url": "https://mcp.altfins.com/mcp",
+                        "type": "http",
+                        "headers": {
+                                "X-Api-Key": "${input:altfins-api-key}"
+                        }
+                }
+        }
+}
