@@ -75,17 +75,41 @@ async def main() -> None:
                 short_description = description[:90] + ("..." if len(description) > 90 else "")
                 print(f"  - {tool.name}: {short_description}")
 
-            ta_arguments = {"symbol": ta_symbols} if ta_symbols else {}
-            technical_result = await session.call_tool(
-                "technicalAnalysis_getTechnicalAnalysisData",
-                arguments=ta_arguments,
-            )
+            # --- Technical Analysis: paginate through all results ---
+            ta_base_args: dict = {"size": 50, "sortField": "updatedDate", "sortDirection": "DESC"}
             if ta_symbols:
-                print(f"\nCurated technical analysis for symbols: {ta_symbols}")
+                ta_base_args["symbol"] = ta_symbols
+
+            all_ta_entries: list = []
+            page = 0
+            while True:
+                ta_args = {**ta_base_args, "page": page}
+                technical_result = await session.call_tool(
+                    "technicalAnalysis_getTechnicalAnalysisData",
+                    arguments=ta_args,
+                )
+                blocks = _extract_text_blocks(technical_result)
+                parsed = _parse_blocks(blocks)
+                # Flatten: each parsed item may be a list of entries or a single entry
+                for item in parsed:
+                    if isinstance(item, list):
+                        all_ta_entries.extend(item)
+                    elif isinstance(item, dict):
+                        all_ta_entries.append(item)
+                # Stop if we got fewer items than page size (last page)
+                page_count = sum(len(i) if isinstance(i, list) else 1 for i in parsed)
+                page += 1
+                if page_count < ta_base_args["size"]:
+                    break
+
+            if ta_symbols:
+                print(f"\nCurated technical analysis for symbol: {ta_symbols}")
             else:
-                print("\nCurated technical analysis for all available symbols:")
-            for block in _extract_text_blocks(technical_result):
-                print(block)
+                print(f"\nCurated technical analysis for all available symbols:")
+            print(f"  Total entries fetched: {len(all_ta_entries)} (across {page} page(s))")
+            symbols_found = [e.get("symbol", "?") for e in all_ta_entries if isinstance(e, dict)]
+            if symbols_found:
+                print(f"  Symbols: {', '.join(symbols_found)}")
 
             ohlc_result = await session.call_tool(
                 "ohlc_getLatestData",
@@ -96,10 +120,10 @@ async def main() -> None:
                 print(block)
 
             raw_result = {
-                "technicalAnalysis_getTechnicalAnalysisData": _parse_blocks(
-                    _extract_text_blocks(technical_result)
-                ),
-                "technicalAnalysis_request": ta_arguments,
+                "technicalAnalysis_getTechnicalAnalysisData": all_ta_entries,
+                "technicalAnalysis_request": ta_base_args,
+                "technicalAnalysis_pages_fetched": page,
+                "technicalAnalysis_total_entries": len(all_ta_entries),
                 "ohlc_getLatestData": _parse_blocks(_extract_text_blocks(ohlc_result)),
             }
             output_json = Path("feature-runs") / "00-live-direct-tool-call-output.json"

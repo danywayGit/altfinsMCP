@@ -1,6 +1,6 @@
 # Live altFINS MCP Tool Catalog
 
-Generated at: 2026-03-27T07:07:15.501425+00:00
+Generated at: 2026-03-29T17:06:06.590374+00:00
 
 | Tool | Description |
 |---|---|

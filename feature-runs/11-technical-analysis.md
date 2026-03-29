@@ -6,7 +6,7 @@ Get technical analysis data for ADA on the 4h timeframe.
 
 ## Tool invocation
 
-`technicalAnalysis_getTechnicalAnalysisData(symbol="ADA", size=10)`
+`technicalAnalysis_getTechnicalAnalysisData(symbol="ADA")`
 
 ## Output received
 

@@ -53,7 +53,7 @@ Run:
 
 ## Included direct tool calls
 
-1. `technicalAnalysis_getTechnicalAnalysisData` for all symbols by default
+1. `technicalAnalysis_getTechnicalAnalysisData` — **paginated**, fetches all pages automatically (page size 50)
 2. `ohlc_getLatestData` with symbols `BTC,ETH,SOL`
 
 Optional filter:
@@ -63,3 +63,65 @@ $env:ALTFINS_TA_SYMBOLS="BTC,ETH,SOL"
 ```
 
 If `ALTFINS_TA_SYMBOLS` is set, technical analysis is fetched only for those symbols.
+Otherwise, all curated entries (~50) are fetched across multiple pages.
+
+## Direct REST API example (no MCP)
+
+Script:
+
+- `examples/python/altfins_direct_api_technical_analysis.py`
+
+This script calls:
+
+- `https://altfins.com/api/v2/public/technical-analysis/data`
+
+Run (all available entries):
+
+```powershell
+.venv/Scripts/python.exe examples/python/altfins_direct_api_technical_analysis.py
+```
+
+Optional single-symbol filter:
+
+```powershell
+$env:ALTFINS_TA_SYMBOLS="ADA"
+.venv/Scripts/python.exe examples/python/altfins_direct_api_technical_analysis.py
+```
+
+Generated output:
+
+- `feature-runs/00-live-direct-api-technical-analysis.json`
+
+Curl equivalent:
+
+```bash
+curl -L "https://altfins.com/api/v2/public/technical-analysis/data" \
+	-H "Accept: application/json" \
+	-H "X-API-KEY: YOUR_API_KEY"
+```
+
+If you receive HTTP 403, your API key may be valid for MCP but not authorized for this direct REST endpoint.
+
+Both the MCP and direct REST scripts paginate automatically (page size 50, stops at last page).
+
+## Symbols list script
+
+Script:
+
+- `examples/python/altfins_symbols_list.py`
+
+This script calls:
+
+- `https://altfins.com/api/v2/public/symbols`
+
+Run:
+
+```powershell
+.venv/Scripts/python.exe examples/python/altfins_symbols_list.py
+```
+
+Generated output:
+
+- `feature-runs/00-live-symbols-list.json`
+
+Returns the full list of 2000+ supported coin symbols from altFINS.

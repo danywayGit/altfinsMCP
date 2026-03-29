@@ -27,7 +27,7 @@ This script:
 1. Connects directly to `https://mcp.altfins.com/mcp` with `X-Api-Key`.
 2. Calls `list_tools` and exports current tools to `feature-runs/00-live-tool-catalog.md`.
 3. Runs direct calls including:
-	- `technicalAnalysis_getTechnicalAnalysisData` for all symbols by default (curated trade setups / analyst views)
+	- `technicalAnalysis_getTechnicalAnalysisData` — **paginated**, fetches all pages automatically (~50 curated entries)
 	- `ohlc_getLatestData`
 4. Saves raw direct-call output to `feature-runs/00-live-direct-tool-call-output.json`.
 
@@ -63,6 +63,47 @@ The live discovered tool inventory is generated in:
 - `feature-runs/00-live-tool-catalog.md`
 
 Use that generated file as the source of truth instead of a hardcoded list in this README.
+
+## Direct API implementation (no MCP)
+
+This repo also includes a direct REST API implementation for technical analysis:
+
+- `examples/python/altfins_direct_api_technical_analysis.py`
+
+Endpoint used:
+
+- `https://altfins.com/api/v2/public/technical-analysis/data`
+
+Run with the same `ALTFINS_API_KEY` setup used by other examples:
+
+```powershell
+.venv/Scripts/python.exe examples/python/altfins_direct_api_technical_analysis.py
+```
+
+Optional single-symbol filter:
+
+```powershell
+$env:ALTFINS_TA_SYMBOLS="ADA"
+.venv/Scripts/python.exe examples/python/altfins_direct_api_technical_analysis.py
+```
+
+Generated output:
+
+- `feature-runs/00-live-direct-api-technical-analysis.json`
+
+Note: if direct API returns HTTP 403, your key may be valid for MCP usage but not authorized for this REST endpoint.
+
+## Symbols list
+
+Fetch the complete list of 2000+ supported symbols:
+
+```powershell
+.venv/Scripts/python.exe examples/python/altfins_symbols_list.py
+```
+
+Generated output:
+
+- `feature-runs/00-live-symbols-list.json`
 
 ## Tool capability map (with one example each)
 
@@ -209,6 +250,8 @@ Live generated files from direct MCP discovery/calls:
 
 - [feature-runs/00-live-tool-catalog.md](feature-runs/00-live-tool-catalog.md) (generated after running Python script)
 - [feature-runs/00-live-direct-tool-call-output.json](feature-runs/00-live-direct-tool-call-output.json) (generated after running Python script)
+- [feature-runs/00-live-direct-api-technical-analysis.json](feature-runs/00-live-direct-api-technical-analysis.json) (generated after running direct API script)
+- [feature-runs/00-live-symbols-list.json](feature-runs/00-live-symbols-list.json) (generated after running symbols list script)
 
 ## Local MCP configuration saved in this repo
 
